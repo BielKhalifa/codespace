@@ -3,7 +3,7 @@
     content: "";
     width: 20px;
     height: 20px;
-    background-size: cover!important;
+    background-size: #333333;
     position: absolute;
     left: 10px;
     top: 50%;
