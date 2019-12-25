@@ -1,4 +1,4 @@
-//META{"name":"Neutron X","description":"A fully customizable and compact theme, now sugar free!","author":"Spectra#7698","version":"6.0.6","source":"https://github.com/codedotspectra/themes","website":"https://codedotspectra.github.io/me/"}*//{}
+//META{"name":"Infinity","description":"Tema para discord para Server Infinity","author":"Panela","version":"1.0.0","source":"","website":""}*//{}
 /*
 ███╗   ██╗███████╗██╗   ██╗████████╗██████╗  ██████╗ ███╗   ██╗    ██╗  ██╗
 ████╗  ██║██╔════╝██║   ██║╚══██╔══╝██╔══██╗██╔═══██╗████╗  ██║    ╚██╗██╔╝
@@ -16,7 +16,7 @@ If you enjoy using the theme, help spread the word!
 
 This theme is meant to be used with the dark version of discord
 ###################################################################################################*/
-@import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
+@import url("https://c4n3l4.github.io/codespace/Infinity/importCSS/xcore.css");
 /*###################################################################################################*/
 :root {
     /* Images */
