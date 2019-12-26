@@ -248,9 +248,7 @@ svg[name="Nova_Discord"] {display: none!important;}
 /* == Gradients == */
 .container-2ax-kl {
   display: inline-block;
-  background: -webkit-linear-gradient(30deg, var(--uiGradient1), var(--uiGradient2));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background: linear-gradient(30deg, var(--uiGradient1), var(--uiGradient2));
   font-weight: bold;
 }
 .uploadModal-2ifh8j {background: -webkit-linear-gradient(-30deg, var(--uiGradient1), var(--uiGradient2));}
