@@ -1236,3 +1236,5 @@ svg[aria-label="Verified"] path {
 .numberBadge-2s8kKX{background: coral;}
 .botTagRegular-2HEhHi{ background: linear-gradient(45deg, #2422a6, #ac0186)};
 .embedFull-2tM8--{border-left: 4px solid #000000;background: linear-gradient(45deg, #101010, #030327);}
+
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionCancel-3AP4ex:hover,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionIgnore-1-RPlq:hover,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionRemove-qu8nnl:hover{background-color:var(--DangerColor)!important}
