@@ -18,37 +18,6 @@ If you enjoy using the theme, help spread the word!
 !!This theme is meant to be used with the dark version of discord !!
 
 ###################################################################################################*/
-@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 @import url("https://c4n3l4.github.io/codespace/INFINITY-2/import/core.css");
-@import url("https://c4n3l4.github.io/codespace/mini-themes/hljs.css");
-@import url('https://c4n3l4.github.io/codespace/mini-themes/settingsIcons.css');
-@import url('https://c4n3l4.github.io/codespace/mini-themes/statusRounded.css');
 
 
-:root {
-  /* Background color */
-  --backgroundColor: #121212;
-
-  /* Background image */
-  --backgroundImage: url('https://c4n3l4.github.io/codespace/INFINITY-2/import/infinity.gif');
-  --backgroundImageOpacity: .75;
-
-  /* Home button image */
-  --homeButtonImage: url('https://img4.goodfon.com/original/1920x1080/0/80/materyi-volk-past-klyki-goriashchie-glaza-oboroten-tma-iazyk.jpg');
-
-  /* Theme Colors */
-  --uiGradient1: #ab0186;
-  --uiGradient2: #2422a6;
-  /* Text Colors */
-  --textNormal: #fff;
-  --textMuted: #72767d;
-  --textLinks: #150460;
-  --channelsDefault: #e4e4e4;
-  --channelsNormal: #d6d6d6;
-  --channelsHover: #ebebeb;
-  --channelsActive: #fff;
-  --channelsMuted: #7d7d7d;
-
-  /* Theme custom font (You need to import the font file first)*/
-  --customFont: 'Ubuntu';
-}
