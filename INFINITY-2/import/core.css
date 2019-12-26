@@ -10,7 +10,7 @@
   --homeButtonImage: url('https://c4n3l4.github.io//codespace/INFINITY-2/import/infinity.gif');
   --uiGradient1: #ab0186;
   --uiGradient2: #2422a6;
-  -DangerColor:#dc3545;
+  --DangerColor:#dc3545;
   --WarningColor:#ffc107;
   --SuccesColor:#28a745;
   --customFont: 'Ubuntu';
@@ -1237,4 +1237,6 @@ svg[aria-label="Verified"] path {
 .botTagRegular-2HEhHi{ background: linear-gradient(45deg, #2422a6, #ac0186)};
 .embedFull-2tM8--{border-left: 4px solid #000000;background: linear-gradient(45deg, #101010, #030327);}
 
-.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionCancel-3AP4ex:hover,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionIgnore-1-RPlq:hover,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionRemove-qu8nnl:hover{background-color:var(--DangerColor)!important}
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionCancel-3AP4ex:hover,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionIgnore-1-RPlq:hover,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionRemove-qu8nnl:hover{background-color:var(--DangerColor)!important};
+
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9{border-radius:50%;background-color:rgba(0,0,0,.35)!important}.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9.friendsActionAccept-3mkemT:hover,.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9:hover{background-color:var(--SuccesColor)!important};
