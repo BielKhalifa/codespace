@@ -1,4 +1,8 @@
 @import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
+@import url('https://c4n3l4.github.io//codespace/mini-themes/statusBorderRight.css');
+@import url('https://c4n3l4.github.io//codespace/mini-themes/statusRounded.css');
+@import url('https://c4n3l4.github.io//codespace/mini-themes/statusSquared.css');
+
 :root {
   --backgroundColor: #101010;
   --backgroundImage: url('https://c4n3l4.github.io//codespace/INFINITY-2/import/infinity.gif');
@@ -6,6 +10,9 @@
   --homeButtonImage: url('https://c4n3l4.github.io//codespace/INFINITY-2/import/infinity.gif');
   --uiGradient1: #ab0186;
   --uiGradient2: #2422a6;
+  -DangerColor:#dc3545;
+  --WarningColor:#ffc107;
+  --SuccesColor:#28a745;
   --customFont: 'Ubuntu';
   --textNormal: #ffff;
   --textMuted: #72767d;
@@ -220,7 +227,7 @@
     padding: 3px;
     transition: all .2s ease;
   }
-  .winButtonMinMax-PBQ2gm:nth-child(4):hover svg {background-color: var(--succes)}
+  .winButtonMinMax-PBQ2gm:nth-child(4):hover svg {background-color: #ab0186};
   .winButtonMinMax-PBQ2gm:nth-child(3):hover svg {background-color: var(--warning);}
   .winButtonClose-1HsbF-:hover svg {background-color: var(--error);}
 /* == Home button == */
