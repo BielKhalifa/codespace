@@ -1,4 +1,3 @@
-@import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
 @import url('https://c4n3l4.github.io/codespace/mini-themes/statusRounded.css');
 
 :root {
@@ -20,9 +19,6 @@
   --channelsHover: #ebebeb;
   --channelsActive: #fff;
   --channelsMuted: #7d7d7d;
-  --succes: #17e81d;
-  --error: #f30c0c;
-  --warning: #e7a418;
 }
 /* == Theme core == */
   /* app font */
@@ -248,7 +244,9 @@ svg[name="Nova_Discord"] {display: none!important;}
 /* == Gradients == */
 .container-2ax-kl {
   display: inline-block;
-  background: linear-gradient(30deg, var(--uiGradient1), var(--uiGradient2));
+  background: -webkit-linear-gradient(30deg, var(--uiGradient1), var(--uiGradient2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-weight: bold;
 }
 .uploadModal-2ifh8j {background: -webkit-linear-gradient(-30deg, var(--uiGradient1), var(--uiGradient2));}
