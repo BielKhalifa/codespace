@@ -1,5 +1,7 @@
 @import url('https://c4n3l4.github.io/codespace/mini-themes/statusRounded.css');
-
+@import url('https://c4n3l4.github.io/codespace/mini-themes/statusRounded.css');
+@import url('https://c4n3l4.github.io/codespace/mini-themes/hljs.css');
+@import url('https://c4n3l4.github.io/codespace/mini-themes/settingsIcons.css');
 :root {
   --backgroundColor: #101010;
   --backgroundImage: url('https://c4n3l4.github.io/codespace/INFINITY-2/import/infinity.gif');
