@@ -22,7 +22,7 @@ If you enjoy using the theme, help spread the word!
 @import url("https://c4n3l4.github.io//codespace/INFINITY-2/import/core.css");
 @import url("https://c4n3l4.github.io//codespace/mini-themes/hljs.css");
 @import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
-@import url('https://c4n3l4.github.io//codespace/themes/mini-themes/settingsIcons.css');
+@import url('https://c4n3l4.github.io//codespace/mini-themes/settingsIcons.css');
 
 :root {
   /* Background color */
@@ -30,7 +30,7 @@ If you enjoy using the theme, help spread the word!
 
   /* Background image */
   --backgroundImage: url('https://c4n3l4.github.io//codespace/INFINITY-2/import/infinity.gif');
-  --backgroundImageOpacity: .45;
+  --backgroundImageOpacity: .75;
 
   /* Home button image */
   --homeButtonImage: url('https://c4n3l4.github.io//codespace/INFINITY-2/import/infinity.gif');
