@@ -95,7 +95,7 @@
   .headerNormal-T_seeN,
   .friendsTable-133bsv .friendsTableBody-1ZhKif,
   .layer-3QrUeG.baseLayer-35bLyl,
-  .app-2rEoOp {}
+  .app-2rEoOp {background: transparent!important;}
   .bg-AYqtMd {display: none;}
   /* remove shadows */
   .container-1r6BKw,
@@ -1251,7 +1251,7 @@ svg[aria-label="Verified"] path {
 .embedFull-2tM8--{border-left: 4px solid #000000;background: linear-gradient(45deg, #101010, #030327);}
 
 .item-2hkk8m {
-  background-color: #b90fff;
+  background-color: #4100B7;
 }
 
 .item-3HpYcP {
