@@ -239,7 +239,7 @@
   background-clip: border-box;
   background-repeat: no-repeat;
 }
-svg[name="Nova_Discord"] {display: none!important;}
+svg[name="Nova_Discord"] { background-image: var(--homeButtonImage);}
 /* == better formating redux plguin == */
 .bf-toolbar:before {
   background-color: var(--backgroundColor);
