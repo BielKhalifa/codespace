@@ -232,7 +232,7 @@
 /* == Home button == */
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
     color: #fff;
-    background: linear-gradient(45deg, #ac0186,#2422a6);
+    background: linear-gradient(45deg, #2422a6, #ac0186);
 }
 
 svg[name="Nova_Discord"] {}
