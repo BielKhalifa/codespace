@@ -232,9 +232,9 @@
   .winButtonClose-1HsbF-:hover svg {background-color: var(--error);}
 /* == Home button == */
 .wrapper-1BJsBx[aria-label="Home"] .selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
-  background-image: url('https://imgur.com/a/bUr2NOJ');
+  display: none!important;
 }
-svg[name="Nova_Discord"] {display: none!important;}
+svg[name="Nova_Discord"] {background-image: url('https://imgur.com/a/bUr2NOJ');}
 /* == better formating redux plguin == */
 .bf-toolbar:before {
   background-color: var(--backgroundColor);
