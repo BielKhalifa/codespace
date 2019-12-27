@@ -238,8 +238,6 @@
   background-size: cover;
   background-clip: border-box;
   background-repeat: no-repeat;
-  width: 40px;
-  height: 40px;
 }
 svg[name="Nova_Discord"] {display: none!important;}
 /* == better formating redux plguin == */
