@@ -230,7 +230,14 @@
   .winButtonMinMax-PBQ2gm:nth-child(4):hover svg {background-color: #5E00BF}
   .winButtonMinMax-PBQ2gm:nth-child(3):hover svg {background-color: var(--warning);}
   .winButtonClose-1HsbF-:hover svg {background-color: var(--error);}
+/* == Home button == */
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    color: #fff;
+    background-color: #5E00BF;
+}
 
+svg[name="Nova_Discord"] {}
+/* == better formating redux plguin == */
 .bf-toolbar:before {
   background-color: var(--backgroundColor);
 }
