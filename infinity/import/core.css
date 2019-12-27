@@ -1253,16 +1253,9 @@ svg[aria-label="Verified"] path {
 
 svg[name="Nova_Help"] {display: none;}
 
-.icon-22AiRD {
+.icon-22AiRD svg[name="Nova_Help"]{
     background-image:url('https://c4n3l4.github.io/codespace/infinity/import/img/PKDOOR.png');
     background-position:center;
     background-repeat:no-repeat;
     background-size:contain;
-    width:80px;
-    height:16px;
-    padding-left:15px;
-    padding-right:15px;
-    margin-left:0;
-    display:block;
-    opacity: .6;
 }
